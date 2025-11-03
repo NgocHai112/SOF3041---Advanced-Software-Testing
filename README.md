@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/FPT_Polytechnic.png" width="280"/>
-</p>
 
 # 🧪 SOF3041 – Kiểm thử nâng cao (Advanced Software Testing)
 💻 **Toàn bộ Labs + Final Assignment (Dự án AB-SD)**  
